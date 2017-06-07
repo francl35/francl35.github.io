@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: My site
 description: My personnal site related to programming stuff, games and whatever I found to be interesting.
+show_downloads: "false"
