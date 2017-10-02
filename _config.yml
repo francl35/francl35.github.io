@@ -6,3 +6,6 @@ show_downloads: true
 links:
   - name: Unity
     url: francl35.github.io/unity.html
+    
+theme: jekyll-theme-midnight
+
