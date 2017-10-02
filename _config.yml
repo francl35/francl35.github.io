@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 title: My site
 description: My personal site related to programming stuff, games and whatever I find to be interesting.
-show_downloads: false
+show_downloads: true
 
 links:
   - name: Forums
